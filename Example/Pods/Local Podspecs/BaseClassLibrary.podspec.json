@@ -1,0 +1,22 @@
+{
+  "name": "BaseClassLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of BaseClassLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huangdili2006@126.com/BaseClassLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangdili2006@126.com": "junxun_lgx@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/huangdili2006@126.com/BaseClassLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BaseClassLibrary/Classes/**/*"
+}
